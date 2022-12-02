@@ -1,0 +1,8 @@
+[25-May-2020 12:30:09 UTC] PHP Fatal error:  Uncaught Error: Class 'common\assets\AlumnoAsset' not found in /home/desarr21/public_html/profesor/views/identificar/perfil.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/desarr21/public_html/profesor/views/identificar/perfil.php on line 8
+[25-May-2020 12:30:13 UTC] PHP Fatal error:  Uncaught Error: Class 'yii\widgets\ActiveForm' not found in /home/desarr21/public_html/profesor/views/identificar/_form_perfil.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/desarr21/public_html/profesor/views/identificar/_form_perfil.php on line 22

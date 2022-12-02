@@ -1,0 +1,4 @@
+[25-May-2020 12:29:57 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/desarr21/public_html/profesor/views/rendir-prueba/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/desarr21/public_html/profesor/views/rendir-prueba/index.php on line 6
